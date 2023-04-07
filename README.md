@@ -1,4 +1,4 @@
-# Naca ini
+# Baca ini
 noh botnya dah gw fix 
 ## Jangan Lupa
 Hapus Folder dedsec
